@@ -2,3 +2,4 @@ hi this is mohit and i am learning devops
 devops,aws,linux
 DEVOPS- narendra and praveen are the trainers
 YOUTUBE- OTT platform
+try is more important than failure
